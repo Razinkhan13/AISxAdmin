@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AIS Enterprise Systems — Gemini 4 Argon Command Center</string>
+    <string name="tab_whatsapp">WhatsApp Blitz</string>
+    <string name="tab_audit">Cold Audit</string>
+    <string name="tab_approve">Approve &amp; Lock</string>
+    <string name="tab_invoice">Mushak-6.3</string>
+    <string name="tab_sandbox">Sandbox</string>
+    <string name="tab_vault">Vault</string>
+    <string name="tab_rls">RLS Engine</string>
+    <string name="trust_bank_account">00110466000494</string>
+    <string name="nbr_bin">004982103-0101</string>
+</resources>
